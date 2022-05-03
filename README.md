@@ -31,11 +31,11 @@ C:\MSFPT\Desktop\Matrix> matrix.bat
 ### Run on Linux
 
 ```
-root@MSFPT:~/Desktop/$ cd Matrix
+cd Matrix
 ```
 ```
-root@MSFPT:~/Desktop/Matrix$ chmod +x *
+chmod +x *
 ```
 ```
-root@MSFPT:~/Desktop/Matrix$ sudo ./matrix.sh 
+sudo ./matrix.sh 
 ```
