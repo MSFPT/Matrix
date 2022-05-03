@@ -1,4 +1,5 @@
 @REM https://github.com/MSFPT/Matrix
+@REM good luck deciphering this mess
 @echo off
 title MSFPT/Matrix
 setlocal enabledelayedexpansion
