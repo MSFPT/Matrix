@@ -2,7 +2,7 @@
 
 [![batch](https://img.shields.io/badge/bash-5-yellow)](https://www.gnu.org/software/bash/)
 [![batch](https://img.shields.io/badge/batch-2-darkgray)](command.com)
-![Level](https://img.shields.io/badge/Level-Easy-cyan)
+<!-- ![Level](https://img.shields.io/badge/Level-Easy-cyan) -->
 
 Matrix with **batch** & **bash**
 
